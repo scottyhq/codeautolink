@@ -3,8 +3,8 @@ channels:
   - conda-forge
 dependencies:
   - python=3
-  - sphinxcontrib-bibtex
   - jupyter-book
-  - jupytext
-  - plotly
-  - pandas
+  - ipykernel
+  - xarray
+  - numpy
+  - sphinx-codeautolink

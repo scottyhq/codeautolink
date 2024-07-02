@@ -1,0 +1,12 @@
+.sphinx-codeautolink-a:link {
+border-bottom-color: lightgray;
+/* border-bottom-style: dotted; */
+border-bottom-style: solid;
+border-bottom-width: 1px;
+}
+
+.sphinx-codeautolink-a:hover {
+border-bottom-color: rgb(255, 139, 139);
+border-bottom-style: solid;
+border-bottom-width: 1px;
+}
