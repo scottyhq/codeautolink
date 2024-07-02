@@ -47,3 +47,9 @@ sphinx:
       numpy:
         - https://numpy.org/doc/stable
         - null
+      pandas:
+        - https://pandas.pydata.org/pandas-docs/stable
+        - null
+      python:
+        - https://docs.python.org/3/
+        - null
